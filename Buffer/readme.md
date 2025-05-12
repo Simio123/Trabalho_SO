@@ -33,5 +33,5 @@ Para compilar o programa, siga as instruções abaixo.
 2. **Comando para compilar**:
 
 ```bash
-gcc -pthread produtor_consumidor.c -o produtor_consumidor -lpthread
+gcc -pthread produtor_consumidor.c -o produtor_consumidor
 ./buffer <tamanho_do_buffer> <numero_de_produtores>
