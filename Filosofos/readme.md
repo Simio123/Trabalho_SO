@@ -1,6 +1,6 @@
 # Problema dos Filósofos (Com Mutexes)
 
-Este projeto implementa a solução do famoso problema dos filósofos usando threads e mutexes para garantir a sincronização entre os filósofos. O objetivo é simular um cenário onde vários filósofos pensam e comem alternadamente, compartilhando recursos limitados (os hashis), de maneira que evite deadlocks e condições de corrida.
+Este trabalho implementa a solução do famoso problema dos filósofos usando threads e mutexes para garantir a sincronização entre os filósofos. O objetivo é simular um cenário onde vários filósofos pensam e comem alternadamente, compartilhando recursos limitados (os hashis), de maneira que evite deadlocks e condições de corrida.
 
 ## Descrição do Problema
 
