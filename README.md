@@ -5,8 +5,8 @@
 **Professor:** João Borges  
 
 **Componentes:**  
-EMERSON DA SILVA SANTOS
-JOAO PEDRO DOS SANTOS MEDEIROS
+- EMERSON DA SILVA SANTOS
+- JOAO PEDRO DOS SANTOS MEDEIROS
 
 ## Descrição
 Este repositório contém a implementação de três problemas clássicos de sincronização em sistemas operacionais, desenvolvidos em linguagem C como parte de um trabalho acadêmico da disciplina DCT2101. O projeto utiliza semáforos POSIX e é dividido em três módulos principais:
