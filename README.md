@@ -15,7 +15,7 @@ Este repositório contém a implementação de três problemas clássicos de sin
 - **[Filosofos](./Filosofos/README.md)**: Solução para o problema do Jantar dos Filósofos, focado em evitar deadlocks e starvation em sistemas concorrentes.
 - **[Leitores](./Leitores/README.md)**: Implementação do problema dos Leitores-Escritores, gerenciando acesso concorrente a um recurso compartilhado.
 
-Cada módulo contém o código-fonte (`*.c`), o código de resposta (`*.resp.c`) e um `README.md` com detalhes específicos de implementação e execução.
+Cada módulo contém o código-fonte (`*.c`), o código de resposta (`*_resp.c`) e um `README.md` com detalhes específicos de implementação e execução.
 
 ## Pré-requisitos
 - Um compilador C (ex.: `gcc`)
